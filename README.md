@@ -1,5 +1,5 @@
 # Task-App
-My todo app! Keep track of all the tasks you need to complete in a single place.
+My very basic todo app! Keep track of all the tasks you need to complete in a single place.
 
 - Add new tasks with just a few clicks
 - Mark tasks as complete when you're finished
