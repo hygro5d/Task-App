@@ -15,5 +15,6 @@ My app is built using the following technologies:
 - HTML
 - CSS
 - JavaScript
+- React.js
 - Node.js / Express.js
 - MongoDB
