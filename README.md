@@ -6,8 +6,8 @@ My very basic todo app! Keep track of all the tasks you need to complete in a si
 - Edit or delete tasks as needed
 - View all your tasks in single interface
 
-# Demo (may take a while to load)
-https://task-app-8thg.onrender.com
+# Demo 
+https://task-app-8thg.onrender.com (may take a while to load)
 
 # Technologies Used
 My app is built using the following technologies:
